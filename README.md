@@ -1,4 +1,4 @@
-#Revolut Challenge - Money Transfers
+# Revolut Challenge - Money Transfers
 
 ### How to build:
 mvn clean package
